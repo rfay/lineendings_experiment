@@ -1,0 +1,4 @@
+This should be normal
+linux
+line endings
+
